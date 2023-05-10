@@ -3,7 +3,7 @@ package org.example.dependencyinversion.problem;
 import org.example.object.User;
 
 public class SaveUser {
-    //the beast way it's depend of abstraction and not depend on one specific class
+    //the key it's depend of abstraction and not depend on one specific class
     public void save(User user) {
 
         dataBaseSQL(user);
