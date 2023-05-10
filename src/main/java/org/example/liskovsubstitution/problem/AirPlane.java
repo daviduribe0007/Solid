@@ -9,7 +9,7 @@ public class AirPlane implements Trans {
     }
 
     public void land() {
-
+        //Logic how to airPlane go to land
 
     }
 
@@ -22,6 +22,6 @@ public class AirPlane implements Trans {
     }
 
     public void takeoff() {
-
+        //Logic how to airPlane go to takeoff
     }
 }

@@ -8,11 +8,11 @@ import org.example.liskovsubstitution.solution.Interfaces.TakeoffInterface;
 public class Airplane implements LandInterface, TakeoffInterface{
     @Override
     public void land() {
-
+        //Logic how to airPlane go to land
     }
 
     @Override
     public void takeOff() {
-
+        //Logic how to airPlane go to takeoff
     }
 }
